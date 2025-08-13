@@ -24,3 +24,7 @@ Wind Speed
 🚀 Attractive, minimal, and responsive UI design
 
 🚀 Error handling for invalid city names
+
+****LIVE DEMO ****
+
+ https://monika285.github.io/Weather-dashboard/
